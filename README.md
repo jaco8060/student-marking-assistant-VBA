@@ -14,10 +14,12 @@ Click on "Table and Histogram" worksheet at the bottom for histogram and pivot t
 
 
 Sample input:
-![input](/relative/path/to/sample_input.png?raw=true "input")
-
+<!-- ![Alt te](/relative/path/to/sample_input.png?raw=true "input") -->
+![Alt text](/relative/path/to/sample_input.png?raw=true "input")
 Sample output student worksheet:
-![output student](/relative/path/to/sample_output_student.png?raw=true "input")
+![Alt text](/relative/path/to/sample_output_student.png?raw=true "input")
+<!-- ![output student](/relative/path/to/sample_output_student.png?raw=true "input") -->
 
 Sample output word document (when selecting "Diaplay Class Average")
-![output word](/relative/path/to/sample_output_word.png?raw=true "input")
+![Alt text](/relative/path/to/sample_output_word.png?raw=true "input")
+<!-- ![output word](/relative/path/to/sample_output_word.png?raw=true "input") -->
