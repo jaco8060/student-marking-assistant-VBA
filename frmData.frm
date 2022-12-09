@@ -199,7 +199,7 @@ Sub word_output()
     'show word application
     Set wdApp = New Word.Application
     wdApp.Visible = True
-    Set wdDoc = wdApp.Documents.Open(ThisWorkbook.Path & "\jaco8060_a05 word document.docx")
+Set wdDoc = wdApp.Documents.Open(ThisWorkbook.Path & "\Grade Assistant Word Document.docx")
     
 
     Set bookmark = wdDoc.Bookmarks("pivotTable").Range
