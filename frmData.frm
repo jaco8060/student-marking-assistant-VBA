@@ -1,6 +1,6 @@
 VERSION 5.00
 Begin {C62A69F0-16DC-11CE-9E98-00AA00574A4F} frmData 
-   Caption         =   "UserForm1"
+   Caption         =   "Grading Assistant"
    ClientHeight    =   7920
    ClientLeft      =   120
    ClientTop       =   465
